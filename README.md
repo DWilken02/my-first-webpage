@@ -1,12 +1,12 @@
-# _{Practice READMe.md}
+# {Practice READMe.md}
 
-#### By _**{DWilken02}
+#### By **{DWilken02}
 
 ## Technologies Used
 
-* _Virtual Studio Code
-* _Git Bash Terminal
-* _Github
+* Virtual Studio Code
+* Git Bash Terminal
+* Github
 
 ## Description
 
